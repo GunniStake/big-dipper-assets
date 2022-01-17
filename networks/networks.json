@@ -1,18 +1,13 @@
 [
     {
-        "name": "IRISnet",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/irishub.svg?sanitize=true",
-        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/IRISnet.png?sanitize=true",
+        "name": "KiChain",
+        "logo": "https://raw.githubusercontent.com/GunniStake/big-dipper-assets/main/kichain/icon.png",
+        "cover": "https://raw.githubusercontent.com/GunniStake/big-dipper-assets/main/kichain/logo.png",
         "links": [
             {
                 "name": "Mainnet",
-                "chain_id": "irishub-1",
-                "url": "https://iris.bigdipper.live"
-            },
-            {
-                "name": "Retired",
-                "chain_id": "irishub",
-                "url": "https://iris-betanet.bigdipper.live"
+                "chain_id": "kichain-2",
+                "url": "https://kichain.bigdipper.live"
             }
         ]
     }    
